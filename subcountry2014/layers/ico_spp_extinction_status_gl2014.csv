@@ -1,0 +1,554 @@
+"rgn_id","sciname","category"
+1,"Alopias vulpinus",7
+1,"Balaena mysticetus",5
+1,"Balaenoptera acutorostrata",5
+1,"Balaenoptera bonaerensis ",2
+1,"Balaenoptera borealis",3
+1,"Balaenoptera edeni",2
+1,"Balaenoptera musculus",3
+1,"Balaenoptera physalus",3
+1,"Berardius arnuxii ",2
+1,"Caperea marginata",2
+1,"Carcharhinus amblyrhynchos",6
+1,"Carcharhinus melanopterus",6
+1," Carcharhinus perezi",6
+1,"Carcharodon carcharias",7
+1,"Caretta caretta",3
+1,"Cephalorhynchus hectori",3
+1,"Cephalorhynchus hectori maui",1
+1,"Cetorhinus maximus",7
+1,"Cheilinus undulatus",3
+1,"Chelonia mydas",3.02727272727273
+1,"Delphinus delphis",5
+1,"Dermochelys coriacea",1.046875
+1,"Engraulis ringens",5
+1,"Eretmochelys imbricata",1
+1,"Eschrichtius robustus",4.88888888888889
+1,"Eubalaena australis ",5
+1,"Eubalaena glacialis",3.71428571428571
+1,"Feresa attenuata",2
+1,"Galeocerdo cuvier",6
+1,"Globicephala macrorhynchus",2
+1,"Globicephala melas",2
+1,"Glyphis gangeticus",1
+1,"Grampus griseus",5
+1,"Hyperoodon planifrons",5
+1,"Indopacetus pacificus",2
+1,"Isurus oxyrinchus",7
+1,"Isurus paucus",7
+1,"Kogia breviceps",2
+1,"Kogia simus",2
+1,"Lagenodelphis hosei",5
+1,"Lagenorhynchus cruciger",5
+1,"Lagenorhynchus obscurus",2
+1,"Lamna nasus",7
+1,"Lepidochelys kempii",1
+1,"Lepidochelys olivacea",7
+1,"Lissodelphis peronii",2
+1,"Lutrogale perspicillata",7
+1,"Megachasma pelagios",2
+1,"Megaptera novaeangliae",5
+1,"Mesoplodon bowdoini",2
+1,"Mesoplodon densirostris",2
+1,"Mesoplodon ginkgodens",2
+1,"Mesoplodon grayi ",2
+1,"Mesoplodon hectori",2
+1,"Mesoplodon layardii",2
+1,"Mesoplodon mirus",2
+1," Monachus monachus ",1
+1,"Natator depressus",2
+1,"Orcaella brevirostris",7
+1,"Orcaella heinsohni",6
+1,"Orcinus orca",2
+1,"Peponocephala electra",5
+1,"Phocoena dioptrica",2
+1,"Phocoena sinus",1
+1,"Physeter macrocephalus",7
+1,"Prionace glauca",6
+1,"Pseudorca crassidens ",2
+1,"Rhincodon typus",7
+1,"Sousa chinensis",6
+1,"Stenella attenuata",5
+1,"Stenella coeruleoalba",5
+1,"Stenella longirostris",2
+1,"Steno bredanensis",5
+1,"Tasmacetus shepherdi ",2
+1,"Triaenodon obesus",6
+1,"Tursiops aduncus",2
+1,"Tursiops truncatus",5
+1,"Ursus maritimus",7
+1,"Ziphius cavirostris",5
+2,"Alopias vulpinus",7
+2,"Balaena mysticetus",5
+2,"Balaenoptera acutorostrata",5
+2,"Balaenoptera bonaerensis ",2
+2,"Balaenoptera borealis",3
+2,"Balaenoptera edeni",2
+2,"Balaenoptera musculus",3
+2,"Balaenoptera physalus",3
+2,"Berardius arnuxii ",2
+2,"Caperea marginata",2
+2,"Carcharhinus amblyrhynchos",6
+2,"Carcharhinus melanopterus",6
+2," Carcharhinus perezi",6
+2,"Carcharodon carcharias",7
+2,"Caretta caretta",3
+2,"Cephalorhynchus hectori",3
+2,"Cephalorhynchus hectori maui",1
+2,"Cetorhinus maximus",7
+2,"Cheilinus undulatus",3
+2,"Chelonia mydas",3.02727272727273
+2,"Delphinus delphis",5
+2,"Dermochelys coriacea",1.046875
+2,"Engraulis ringens",5
+2,"Eretmochelys imbricata",1
+2,"Eschrichtius robustus",4.88888888888889
+2,"Eubalaena australis ",5
+2,"Eubalaena glacialis",3.71428571428571
+2,"Feresa attenuata",2
+2,"Galeocerdo cuvier",6
+2,"Globicephala macrorhynchus",2
+2,"Globicephala melas",2
+2,"Glyphis gangeticus",1
+2,"Grampus griseus",5
+2,"Hyperoodon planifrons",5
+2,"Indopacetus pacificus",2
+2,"Isurus oxyrinchus",7
+2,"Isurus paucus",7
+2,"Kogia breviceps",2
+2,"Kogia simus",2
+2,"Lagenodelphis hosei",5
+2,"Lagenorhynchus cruciger",5
+2,"Lagenorhynchus obscurus",2
+2,"Lamna nasus",7
+2,"Lepidochelys kempii",1
+2,"Lepidochelys olivacea",7
+2,"Lissodelphis peronii",2
+2,"Lutrogale perspicillata",7
+2,"Megachasma pelagios",2
+2,"Megaptera novaeangliae",5
+2,"Mesoplodon bowdoini",2
+2,"Mesoplodon densirostris",2
+2,"Mesoplodon ginkgodens",2
+2,"Mesoplodon grayi ",2
+2,"Mesoplodon hectori",2
+2,"Mesoplodon layardii",2
+2,"Mesoplodon mirus",2
+2," Monachus monachus ",1
+2,"Natator depressus",2
+2,"Orcaella brevirostris",7
+2,"Orcaella heinsohni",6
+2,"Orcinus orca",2
+2,"Peponocephala electra",5
+2,"Phocoena dioptrica",2
+2,"Phocoena sinus",1
+2,"Physeter macrocephalus",7
+2,"Prionace glauca",6
+2,"Pseudorca crassidens ",2
+2,"Rhincodon typus",7
+2,"Sousa chinensis",6
+2,"Stenella attenuata",5
+2,"Stenella coeruleoalba",5
+2,"Stenella longirostris",2
+2,"Steno bredanensis",5
+2,"Tasmacetus shepherdi ",2
+2,"Triaenodon obesus",6
+2,"Tursiops aduncus",2
+2,"Tursiops truncatus",5
+2,"Ursus maritimus",7
+2,"Ziphius cavirostris",5
+3,"Alopias vulpinus",7
+3,"Balaena mysticetus",5
+3,"Balaenoptera acutorostrata",5
+3,"Balaenoptera bonaerensis ",2
+3,"Balaenoptera borealis",3
+3,"Balaenoptera edeni",2
+3,"Balaenoptera musculus",3
+3,"Balaenoptera physalus",3
+3,"Berardius arnuxii ",2
+3,"Caperea marginata",2
+3,"Carcharhinus amblyrhynchos",6
+3,"Carcharhinus melanopterus",6
+3," Carcharhinus perezi",6
+3,"Carcharodon carcharias",7
+3,"Caretta caretta",3
+3,"Cephalorhynchus hectori",3
+3,"Cephalorhynchus hectori maui",1
+3,"Cetorhinus maximus",7
+3,"Cheilinus undulatus",3
+3,"Chelonia mydas",3.02727272727273
+3,"Delphinus delphis",5
+3,"Dermochelys coriacea",1.046875
+3,"Engraulis ringens",5
+3,"Eretmochelys imbricata",1
+3,"Eschrichtius robustus",4.88888888888889
+3,"Eubalaena australis ",5
+3,"Eubalaena glacialis",3.71428571428571
+3,"Feresa attenuata",2
+3,"Galeocerdo cuvier",6
+3,"Globicephala macrorhynchus",2
+3,"Globicephala melas",2
+3,"Glyphis gangeticus",1
+3,"Grampus griseus",5
+3,"Hyperoodon planifrons",5
+3,"Indopacetus pacificus",2
+3,"Isurus oxyrinchus",7
+3,"Isurus paucus",7
+3,"Kogia breviceps",2
+3,"Kogia simus",2
+3,"Lagenodelphis hosei",5
+3,"Lagenorhynchus cruciger",5
+3,"Lagenorhynchus obscurus",2
+3,"Lamna nasus",7
+3,"Lepidochelys kempii",1
+3,"Lepidochelys olivacea",7
+3,"Lissodelphis peronii",2
+3,"Lutrogale perspicillata",7
+3,"Megachasma pelagios",2
+3,"Megaptera novaeangliae",5
+3,"Mesoplodon bowdoini",2
+3,"Mesoplodon densirostris",2
+3,"Mesoplodon ginkgodens",2
+3,"Mesoplodon grayi ",2
+3,"Mesoplodon hectori",2
+3,"Mesoplodon layardii",2
+3,"Mesoplodon mirus",2
+3," Monachus monachus ",1
+3,"Natator depressus",2
+3,"Orcaella brevirostris",7
+3,"Orcaella heinsohni",6
+3,"Orcinus orca",2
+3,"Peponocephala electra",5
+3,"Phocoena dioptrica",2
+3,"Phocoena sinus",1
+3,"Physeter macrocephalus",7
+3,"Prionace glauca",6
+3,"Pseudorca crassidens ",2
+3,"Rhincodon typus",7
+3,"Sousa chinensis",6
+3,"Stenella attenuata",5
+3,"Stenella coeruleoalba",5
+3,"Stenella longirostris",2
+3,"Steno bredanensis",5
+3,"Tasmacetus shepherdi ",2
+3,"Triaenodon obesus",6
+3,"Tursiops aduncus",2
+3,"Tursiops truncatus",5
+3,"Ursus maritimus",7
+3,"Ziphius cavirostris",5
+4,"Alopias vulpinus",7
+4,"Balaena mysticetus",5
+4,"Balaenoptera acutorostrata",5
+4,"Balaenoptera bonaerensis ",2
+4,"Balaenoptera borealis",3
+4,"Balaenoptera edeni",2
+4,"Balaenoptera musculus",3
+4,"Balaenoptera physalus",3
+4,"Berardius arnuxii ",2
+4,"Caperea marginata",2
+4,"Carcharhinus amblyrhynchos",6
+4,"Carcharhinus melanopterus",6
+4," Carcharhinus perezi",6
+4,"Carcharodon carcharias",7
+4,"Caretta caretta",3
+4,"Cephalorhynchus hectori",3
+4,"Cephalorhynchus hectori maui",1
+4,"Cetorhinus maximus",7
+4,"Cheilinus undulatus",3
+4,"Chelonia mydas",3.02727272727273
+4,"Delphinus delphis",5
+4,"Dermochelys coriacea",1.046875
+4,"Engraulis ringens",5
+4,"Eretmochelys imbricata",1
+4,"Eschrichtius robustus",4.88888888888889
+4,"Eubalaena australis ",5
+4,"Eubalaena glacialis",3.71428571428571
+4,"Feresa attenuata",2
+4,"Galeocerdo cuvier",6
+4,"Globicephala macrorhynchus",2
+4,"Globicephala melas",2
+4,"Glyphis gangeticus",1
+4,"Grampus griseus",5
+4,"Hyperoodon planifrons",5
+4,"Indopacetus pacificus",2
+4,"Isurus oxyrinchus",7
+4,"Isurus paucus",7
+4,"Kogia breviceps",2
+4,"Kogia simus",2
+4,"Lagenodelphis hosei",5
+4,"Lagenorhynchus cruciger",5
+4,"Lagenorhynchus obscurus",2
+4,"Lamna nasus",7
+4,"Lepidochelys kempii",1
+4,"Lepidochelys olivacea",7
+4,"Lissodelphis peronii",2
+4,"Lutrogale perspicillata",7
+4,"Megachasma pelagios",2
+4,"Megaptera novaeangliae",5
+4,"Mesoplodon bowdoini",2
+4,"Mesoplodon densirostris",2
+4,"Mesoplodon ginkgodens",2
+4,"Mesoplodon grayi ",2
+4,"Mesoplodon hectori",2
+4,"Mesoplodon layardii",2
+4,"Mesoplodon mirus",2
+4," Monachus monachus ",1
+4,"Natator depressus",2
+4,"Orcaella brevirostris",7
+4,"Orcaella heinsohni",6
+4,"Orcinus orca",2
+4,"Peponocephala electra",5
+4,"Phocoena dioptrica",2
+4,"Phocoena sinus",1
+4,"Physeter macrocephalus",7
+4,"Prionace glauca",6
+4,"Pseudorca crassidens ",2
+4,"Rhincodon typus",7
+4,"Sousa chinensis",6
+4,"Stenella attenuata",5
+4,"Stenella coeruleoalba",5
+4,"Stenella longirostris",2
+4,"Steno bredanensis",5
+4,"Tasmacetus shepherdi ",2
+4,"Triaenodon obesus",6
+4,"Tursiops aduncus",2
+4,"Tursiops truncatus",5
+4,"Ursus maritimus",7
+4,"Ziphius cavirostris",5
+5,"Alopias vulpinus",7
+5,"Balaena mysticetus",5
+5,"Balaenoptera acutorostrata",5
+5,"Balaenoptera bonaerensis ",2
+5,"Balaenoptera borealis",3
+5,"Balaenoptera edeni",2
+5,"Balaenoptera musculus",3
+5,"Balaenoptera physalus",3
+5,"Berardius arnuxii ",2
+5,"Caperea marginata",2
+5,"Carcharhinus amblyrhynchos",6
+5,"Carcharhinus melanopterus",6
+5," Carcharhinus perezi",6
+5,"Carcharodon carcharias",7
+5,"Caretta caretta",3
+5,"Cephalorhynchus hectori",3
+5,"Cephalorhynchus hectori maui",1
+5,"Cetorhinus maximus",7
+5,"Cheilinus undulatus",3
+5,"Chelonia mydas",3.02727272727273
+5,"Delphinus delphis",5
+5,"Dermochelys coriacea",1.046875
+5,"Engraulis ringens",5
+5,"Eretmochelys imbricata",1
+5,"Eschrichtius robustus",4.88888888888889
+5,"Eubalaena australis ",5
+5,"Eubalaena glacialis",3.71428571428571
+5,"Feresa attenuata",2
+5,"Galeocerdo cuvier",6
+5,"Globicephala macrorhynchus",2
+5,"Globicephala melas",2
+5,"Glyphis gangeticus",1
+5,"Grampus griseus",5
+5,"Hyperoodon planifrons",5
+5,"Indopacetus pacificus",2
+5,"Isurus oxyrinchus",7
+5,"Isurus paucus",7
+5,"Kogia breviceps",2
+5,"Kogia simus",2
+5,"Lagenodelphis hosei",5
+5,"Lagenorhynchus cruciger",5
+5,"Lagenorhynchus obscurus",2
+5,"Lamna nasus",7
+5,"Lepidochelys kempii",1
+5,"Lepidochelys olivacea",7
+5,"Lissodelphis peronii",2
+5,"Lutrogale perspicillata",7
+5,"Megachasma pelagios",2
+5,"Megaptera novaeangliae",5
+5,"Mesoplodon bowdoini",2
+5,"Mesoplodon densirostris",2
+5,"Mesoplodon ginkgodens",2
+5,"Mesoplodon grayi ",2
+5,"Mesoplodon hectori",2
+5,"Mesoplodon layardii",2
+5,"Mesoplodon mirus",2
+5," Monachus monachus ",1
+5,"Natator depressus",2
+5,"Orcaella brevirostris",7
+5,"Orcaella heinsohni",6
+5,"Orcinus orca",2
+5,"Peponocephala electra",5
+5,"Phocoena dioptrica",2
+5,"Phocoena sinus",1
+5,"Physeter macrocephalus",7
+5,"Prionace glauca",6
+5,"Pseudorca crassidens ",2
+5,"Rhincodon typus",7
+5,"Sousa chinensis",6
+5,"Stenella attenuata",5
+5,"Stenella coeruleoalba",5
+5,"Stenella longirostris",2
+5,"Steno bredanensis",5
+5,"Tasmacetus shepherdi ",2
+5,"Triaenodon obesus",6
+5,"Tursiops aduncus",2
+5,"Tursiops truncatus",5
+5,"Ursus maritimus",7
+5,"Ziphius cavirostris",5
+6,"Alopias vulpinus",7
+6,"Balaena mysticetus",5
+6,"Balaenoptera acutorostrata",5
+6,"Balaenoptera bonaerensis ",2
+6,"Balaenoptera borealis",3
+6,"Balaenoptera edeni",2
+6,"Balaenoptera musculus",3
+6,"Balaenoptera physalus",3
+6,"Berardius arnuxii ",2
+6,"Caperea marginata",2
+6,"Carcharhinus amblyrhynchos",6
+6,"Carcharhinus melanopterus",6
+6," Carcharhinus perezi",6
+6,"Carcharodon carcharias",7
+6,"Caretta caretta",3
+6,"Cephalorhynchus hectori",3
+6,"Cephalorhynchus hectori maui",1
+6,"Cetorhinus maximus",7
+6,"Cheilinus undulatus",3
+6,"Chelonia mydas",3.02727272727273
+6,"Delphinus delphis",5
+6,"Dermochelys coriacea",1.046875
+6,"Engraulis ringens",5
+6,"Eretmochelys imbricata",1
+6,"Eschrichtius robustus",4.88888888888889
+6,"Eubalaena australis ",5
+6,"Eubalaena glacialis",3.71428571428571
+6,"Feresa attenuata",2
+6,"Galeocerdo cuvier",6
+6,"Globicephala macrorhynchus",2
+6,"Globicephala melas",2
+6,"Glyphis gangeticus",1
+6,"Grampus griseus",5
+6,"Hyperoodon planifrons",5
+6,"Indopacetus pacificus",2
+6,"Isurus oxyrinchus",7
+6,"Isurus paucus",7
+6,"Kogia breviceps",2
+6,"Kogia simus",2
+6,"Lagenodelphis hosei",5
+6,"Lagenorhynchus cruciger",5
+6,"Lagenorhynchus obscurus",2
+6,"Lamna nasus",7
+6,"Lepidochelys kempii",1
+6,"Lepidochelys olivacea",7
+6,"Lissodelphis peronii",2
+6,"Lutrogale perspicillata",7
+6,"Megachasma pelagios",2
+6,"Megaptera novaeangliae",5
+6,"Mesoplodon bowdoini",2
+6,"Mesoplodon densirostris",2
+6,"Mesoplodon ginkgodens",2
+6,"Mesoplodon grayi ",2
+6,"Mesoplodon hectori",2
+6,"Mesoplodon layardii",2
+6,"Mesoplodon mirus",2
+6," Monachus monachus ",1
+6,"Natator depressus",2
+6,"Orcaella brevirostris",7
+6,"Orcaella heinsohni",6
+6,"Orcinus orca",2
+6,"Peponocephala electra",5
+6,"Phocoena dioptrica",2
+6,"Phocoena sinus",1
+6,"Physeter macrocephalus",7
+6,"Prionace glauca",6
+6,"Pseudorca crassidens ",2
+6,"Rhincodon typus",7
+6,"Sousa chinensis",6
+6,"Stenella attenuata",5
+6,"Stenella coeruleoalba",5
+6,"Stenella longirostris",2
+6,"Steno bredanensis",5
+6,"Tasmacetus shepherdi ",2
+6,"Triaenodon obesus",6
+6,"Tursiops aduncus",2
+6,"Tursiops truncatus",5
+6,"Ursus maritimus",7
+6,"Ziphius cavirostris",5
+7,"Alopias vulpinus",7
+7,"Balaena mysticetus",5
+7,"Balaenoptera acutorostrata",5
+7,"Balaenoptera bonaerensis ",2
+7,"Balaenoptera borealis",3
+7,"Balaenoptera edeni",2
+7,"Balaenoptera musculus",3
+7,"Balaenoptera physalus",3
+7,"Berardius arnuxii ",2
+7,"Caperea marginata",2
+7,"Carcharhinus amblyrhynchos",6
+7,"Carcharhinus melanopterus",6
+7," Carcharhinus perezi",6
+7,"Carcharodon carcharias",7
+7,"Caretta caretta",3
+7,"Cephalorhynchus hectori",3
+7,"Cephalorhynchus hectori maui",1
+7,"Cetorhinus maximus",7
+7,"Cheilinus undulatus",3
+7,"Chelonia mydas",3.02727272727273
+7,"Delphinus delphis",5
+7,"Dermochelys coriacea",1.046875
+7,"Engraulis ringens",5
+7,"Eretmochelys imbricata",1
+7,"Eschrichtius robustus",4.88888888888889
+7,"Eubalaena australis ",5
+7,"Eubalaena glacialis",3.71428571428571
+7,"Feresa attenuata",2
+7,"Galeocerdo cuvier",6
+7,"Globicephala macrorhynchus",2
+7,"Globicephala melas",2
+7,"Glyphis gangeticus",1
+7,"Grampus griseus",5
+7,"Hyperoodon planifrons",5
+7,"Indopacetus pacificus",2
+7,"Isurus oxyrinchus",7
+7,"Isurus paucus",7
+7,"Kogia breviceps",2
+7,"Kogia simus",2
+7,"Lagenodelphis hosei",5
+7,"Lagenorhynchus cruciger",5
+7,"Lagenorhynchus obscurus",2
+7,"Lamna nasus",7
+7,"Lepidochelys kempii",1
+7,"Lepidochelys olivacea",7
+7,"Lissodelphis peronii",2
+7,"Lutrogale perspicillata",7
+7,"Megachasma pelagios",2
+7,"Megaptera novaeangliae",5
+7,"Mesoplodon bowdoini",2
+7,"Mesoplodon densirostris",2
+7,"Mesoplodon ginkgodens",2
+7,"Mesoplodon grayi ",2
+7,"Mesoplodon hectori",2
+7,"Mesoplodon layardii",2
+7,"Mesoplodon mirus",2
+7," Monachus monachus ",1
+7,"Natator depressus",2
+7,"Orcaella brevirostris",7
+7,"Orcaella heinsohni",6
+7,"Orcinus orca",2
+7,"Peponocephala electra",5
+7,"Phocoena dioptrica",2
+7,"Phocoena sinus",1
+7,"Physeter macrocephalus",7
+7,"Prionace glauca",6
+7,"Pseudorca crassidens ",2
+7,"Rhincodon typus",7
+7,"Sousa chinensis",6
+7,"Stenella attenuata",5
+7,"Stenella coeruleoalba",5
+7,"Stenella longirostris",2
+7,"Steno bredanensis",5
+7,"Tasmacetus shepherdi ",2
+7,"Triaenodon obesus",6
+7,"Tursiops aduncus",2
+7,"Tursiops truncatus",5
+7,"Ursus maritimus",7
+7,"Ziphius cavirostris",5
