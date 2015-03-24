@@ -11,9 +11,9 @@ study_area:  Estonia
 git_owner:   OHI-Science
 git_repo:    est
 git_slug:    OHI-Science/est
-app_url:     http://ohi-science.nceas.ucsb.edu/est
+app_url:     https://ohi-science.shinyapps.io/est_app
 
-default_branch_scenario: subcountry2014/published
+default_branch_scenario: published/subcountry2014
 
 # Jekyll configuration
 
